@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TwitchBot.Properties
+namespace TwitchBotForms.Properties
 {
 
 
